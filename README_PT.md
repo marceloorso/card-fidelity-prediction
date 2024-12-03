@@ -57,8 +57,5 @@ Um problema de negócio representa qualquer barreira que impede uma empresa de a
 2. Realizar a análise exploratória para identificar as variáveis mais importantes.
 3. Selecionar e treinar um algoritmo de aprendizado de máquina adequado para resolver o problema.
 
----
-
-Este plano permite uma abordagem estruturada para aumentar a eficiência das vendas e melhorar a receita da empresa.
 
  
